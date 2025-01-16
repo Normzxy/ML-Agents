@@ -1,1 +1,1 @@
-# ML-Agents
+A simple project demonstrating the operation of the [ML-Agents tool](https://github.com/Unity-Technologies/ml-agents), available as an extension to the Unity engine. Two artificial intelligence agents are present on stage, learning through a system of rewards and punishments. One of them acts as a predator and tries to catch the other, while the other learns to get food and avoid the predator.
